@@ -2,4 +2,4 @@
 - 💻 Estudando Front-End
 
 ## About me
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nykols2&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact)
