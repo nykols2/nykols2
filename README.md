@@ -1,6 +1,6 @@
 # Eu sou o Nykolas Silva! 👋
 - 💻 Estudando Front-End
 
-## About me
-<a href="https://github.com/Nykols2">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nykols2&layout=compact)
+## Sobre mim
+<a href="https://portfolio-nykol.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
+
