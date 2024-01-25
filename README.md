@@ -1,4 +1,4 @@
-# 👋 Eu sou o Nykolas Silva! 
+## 👋 Eu sou o Nykolas Silva! 
 - 💻 Estudando Front-End
 
 ## 🚀 Sobre mim 
